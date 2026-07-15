@@ -1,6 +1,6 @@
 # 我会一直视监你的，永远 (Screen Spy Server)
 
-这是为 [AstrBot 屏幕查岗插件](https://github.com/nikonotnicotine/astrobot_plugin_screen_spy) 设计的本地截图服务端程序。
+这是为 [AstrBot 屏幕查岗插件](https://github.com/nikonotnicotine/astrbot_plugin_screen_monitor) 设计的本地截图服务端程序。
 
 下载并运行后，它会作为一个隐藏在系统托盘的小程序，在后台默默等待 AI 的“查岗”指令。
 
